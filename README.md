@@ -1,6 +1,16 @@
-# ✅ Lista de Tarefas – Projeto To-do List
+# ✅ Lista de Tarefas – Manuela Vilas Boas E Silva
 
-Este é um projeto simples de uma **Lista de Tarefas (To-do List)**, feito com **HTML, CSS e JavaScript**, como parte do meu aprendizado em desenvolvimento Front-End.
+Este é um projeto simples de uma lista de tarefas, desenvolvido em HTML5, CSS3 e JavaScript. É parte do meu portfólio como estudante de Sistemas de Informação, com foco em aprendizado prático de desenvolvimento Front-end.
+
+---
+
+## 💻 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Git e GitHub
 
 ---
 
@@ -13,16 +23,9 @@ Este é um projeto simples de uma **Lista de Tarefas (To-do List)**, feito com *
 
 ---
 
-## 💻 Tecnologias usadas
+## 📎 Projeto no ar
 
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-## 🚀 Acesse o projeto publicado
-
-👉 [Clique aqui para acessar o site](https://manuelavbsv.github.io/todo-list/)  
+Você pode acessar a página publicada no GitHub Pages aqui:  
+👉 [https://manuelavbsv.github.io/todo-list/](https://manuelavbsv.github.io/todo-list/)
 
 ---
