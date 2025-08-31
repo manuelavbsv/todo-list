@@ -18,7 +18,7 @@ body {
 h1 {
   font-family: 'Nata Sans', sans-serif;
   text-align: center;
-  color: #0077bb;
+  color: #e5e5e5;
 }
 
 .input-area {
@@ -60,12 +60,20 @@ button.limpar {
   background-color: #851001;
 }
 
+button.remover {
+  background-color: #851001;
+}
+
+button.remover:hover {
+  background-color: #ac1400;
+}
+
 button.limpar:hover {
-  background-color: #0097a7;
+  background-color: #ac1400;
 }
 
 button:hover {
-  background-color: #0097a7;
+  background-color: #166cc1;
 }
 
 ul {
@@ -87,7 +95,7 @@ li {
 
 li button {
   font-family: 'Nata Sans', sans-serif;
-  background-color: #0097a7;
+  background-color: #054484;
   color: #fff;
   padding: 5px 10px;
   border: none;
@@ -96,6 +104,6 @@ li button {
 }
 
 li button:hover {
-  background-color: #0097a7;
+  background-color: #166cc1;
   font-family: 'Nata Sans', sans-serif;
 }
