@@ -14,7 +14,7 @@ function adicionarTarefa() {
     <span>${texto}</span>
     <div class="botoes">
         <button onclick="concluirTarefa(this)">Concluir</button>
-        <button onclick="removerTarefa(this)">Remover</button>
+        <button onclick="removerTarefa(this)" class="remover">Remover</button>
     </div>
   `;
 
